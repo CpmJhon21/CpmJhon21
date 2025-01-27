@@ -100,12 +100,10 @@ class CpmJhon21:
 
 ```yaml
 Development:
-   
    Editor mobile: ["Acode", "Quick Edit"]
-    terminal: ["Termux", "Linux Userland"]
+   terminal: ["Termux", "Linux Userland"]
   
 System:
-
   device: "Itel P55 NFC"
   processor: "Unisoc T606"
   os: "Android 13"
