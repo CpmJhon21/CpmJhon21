@@ -121,7 +121,11 @@ System:
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](tiktok.com/@garasidrift_cpm)
 
 </div>
+<p align="center">
+  <a href="https://youtube.com/@galeri_car_cpm8048"><img src="https://img.shields.io/youtube/channel/subscribers/UCdzWwbApjkyODby7_MoRYlA?style=social" /> <br>
+  <a href="https://komarev.com/ghpvc/?username=zeeoneofc&color=blue&style=flat-square&label=Profile+Dilihat"><img src="https://komarev.com/ghpvc/?username=zeeoneofc&color=blue&style=flat-square&label=Profile+Dilihat" />
 
+</p>
 ---
 
 <div align="center">
