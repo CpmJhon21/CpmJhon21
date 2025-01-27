@@ -99,9 +99,8 @@ class CpmJhon21:
 ## 🎯 Current Setup
 
 ```yaml
-Development:
-  Editor: 
-    mobile: ["Acode", "Quick Edit"]
+Development: 
+   Editor mobile: ["Acode", "Quick Edit"]
     terminal: ["Termux", "Linux Userland"]
   
 System:
