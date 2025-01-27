@@ -40,7 +40,7 @@
 - 🔭 I am not programmer
 
 ## 🧑‍💻 About Me
-
+<div align="center">
 ```python
 class CpmJhon21:
     def __init__(self):
@@ -53,6 +53,7 @@ class CpmJhon21:
     
     def get_daily_routine(self):
         return ["Code", "Hack", "Learn", "Game", "Repeat"]
+        </div>
 ```
 
 ## 🌟 Featured Projects
@@ -84,6 +85,7 @@ class CpmJhon21:
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=white)
 ![Acode](https://img.shields.io/badge/Acode-4F46E5?style=for-the-badge&logo=android&logoColor=white)
+</div>
 
 ## 📊 GitHub Stats
 
